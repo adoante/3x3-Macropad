@@ -81,7 +81,8 @@ while True:
         keyboard.press(Keycode.F5)
         time.sleep(0.1)
         keyboard.release(Keycode.F5)
-        
+
+    # control + shift + t,  shortcut to reopen closed tabs in an Internet browser
     if btnF.value:
         print("Button F pressed")
         keyboard.press(Keycode.LEFT_CONTROL, Keycode.LEFT_SHIFT, Keycode.T)
