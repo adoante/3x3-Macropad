@@ -3,5 +3,5 @@ simple 3x3 macropad using raspberry pi pico, circuitpython and 3d-printed case
 
 
 <img src="https://github.com/adoante/3x3-Macropad/blob/main/PXL_20230817_233734604.jpg" style="float:left;height: auto; width:400px;"/>
-<img src="https://github.com/adoante/3x3-Macropad/blob/main/PXL_20221108_040921032.jpg" style="float:left;height: auto; width:400px;"/>
+<img src="https://github.com/adoante/3x3-Macropad/blob/main/PXL_20221108_040921032.jpg" style="float:right;height: auto; width:400px;"/>
 
